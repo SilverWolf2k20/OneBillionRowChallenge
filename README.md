@@ -14,9 +14,9 @@ ten rows as an example:
 Bihac;-16,1
 Jumla;-49,5
 Montpellier;-64,1
-Красноград;21,5
-Расеиниаи;-62,8
-Углегорск;-93,6
+РљСЂР°СЃРЅРѕРіСЂР°Рґ;21,5
+Р Р°СЃРµРёРЅРёР°Рё;-62,8
+РЈРіР»РµРіРѕСЂСЃРє;-93,6
 Suttsu;-60,5
 ...
 ```
@@ -26,7 +26,7 @@ max temperature value per weather station, and emits the results on stdout like 
 (i.e. sorted alphabetically by station name, and the result values per station in the 
 format , rounded to one fractional digit): `min/mean/max`.
 
-`{Abha=-23.0/18.0/59.2, Bihac=-16.2/26.0/67.3, Красноград=-10.0/29.4/69.0, ...}`
+`{Abha=-23.0/18.0/59.2, Bihac=-16.2/26.0/67.3, РљСЂР°СЃРЅРѕРіСЂР°Рґ=-10.0/29.4/69.0, ...}`
 
 ## Supported versions of .NET
 
